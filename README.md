@@ -1,3 +1,2 @@
-# RStudio: análisis y visualización de datos
-
-Este repositorio contiene archivos de RStudio y Excel que se utilizan para realizar operaciones de regresión, diagramas y gráficas.
+# Análisis y Visualización de Datos con R
+Este repositorio contiene scripts en R para análisis y visualización de datos. Se utilizan archivos Excel como fuente de datos para realizar operaciones de regresión, generación de diagramas y gráficos.
